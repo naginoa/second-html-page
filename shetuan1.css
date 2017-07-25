@@ -1,0 +1,99 @@
+.h1
+{
+    color: midnightblue;
+    background-color: azure;
+    text-align: center;
+    padding: 20px;
+    width: 700px;
+    margin-left: 20%;
+}
+p
+{
+    margin-left: 10%;
+}
+img
+{
+    padding: 5px;
+    border: 1px solid burlywood;
+    height: 240px;
+    width: 400px;
+    margin-left: 130px;
+    margin-top: 3%;
+    background-color: bisque;
+    float: left;
+}
+element.style {
+}
+.chief, .fl, .layout .fl {
+    float: left;
+    display: inline;
+}
+#newsInfoQuanguo .ft .newsMoreBtn, #newsInfoQuanguo .ft .newsMoreBtn2, #newsInfoQuanguo .ft .newsMoreBtn3, .leftNews {
+    width: 350px;
+}
+.leftNews {
+    margin-left: 10%;
+    margin-top: 3%;
+    width: 370px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+div {
+    display: block;
+}
+body {
+    font: 16px 宋体, 'Arial Narrow', HELVETICA;
+    background-image: url("shetuan.jpg");
+}
+.leftNews .hd {
+    height: 33px;
+}
+.leftAreaContent .hd {
+    width: 100%;
+    height: 29px;
+    border-top: 1px solid #c8dcf2;
+}
+.Q-pList, .Q-pList ul, .Q-tList, .Q-tList ol, .Q-tList ul, .Q-tpList, .Q-tpList ul, .Q-tpWrap, .bd, .cf, .ft, .hd, .layout {
+}
+div {
+    display: block;
+}
+element.style {
+    display: block;
+}
+#newsInfoQuanguo {
+    overflow: hidden;
+}
+.dis {
+    display: block;
+}
+div {
+    display: block;
+}
+element.style {
+}
+#newsInfo .newsContent ul, .leftNews .ft ul {
+    margin-top: 3px;
+}
+dd, dl, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, ol, p, select, td, textarea, th, ul {
+    margin: 0;
+    padding: 0;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+.kaitou{
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.kimi2{
+    background-color:skyblue;
+}
